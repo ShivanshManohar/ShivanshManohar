@@ -1,4 +1,4 @@
-# Hi, I'm Shivansh Manohar 👋
+# Hi, I'm Shivansh! 👋
 
 I'm a CS student at VIT Vellore, building practical software across MERN, AWS, and distributed communication systems.  
 Currently expanding into AI/ML with a focus on production-ready engineering.
