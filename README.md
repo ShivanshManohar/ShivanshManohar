@@ -1,6 +1,7 @@
 # Hi, I'm Shivansh! 👋
 
 CS student at VIT Vellore building production AI systems & full-stack applications across Conversational AI (LangChain, Ollama), MERN, AWS, and real-time systems (WebRTC, WebSockets).
+
 (On computers I'm a hard coder, on stage I'm a hard metal-head)
 
 ### Main Repositories  
