@@ -1,6 +1,7 @@
 # Hi, I'm Shivansh! 👋
 
 CS student at VIT Vellore building production AI systems & full-stack applications across Conversational AI (LangChain, Ollama), MERN, AWS, and real-time systems (WebRTC, WebSockets).
+(On computers I'm a hard coder, on stage I'm a hard metal-head)
 
 ### Main Repositories  
 - **Voice-Enabled AI Assistant** – End-to-end conversational AI with STT/TTS, LangChain memory, Ollama Llama3.2, and live weather APIs (95% speech accuracy).
@@ -12,5 +13,6 @@ CS student at VIT Vellore building production AI systems & full-stack applicatio
 - **Movie Web App** – JavaScript, REST APIs, and responsive UI.
 
 ### Contact  
-📫 shivanshmanohar2023@vitstudent.ac.in  
-🔗 linkedin.com/in/shivanshmanohar  
+📫 shivanshmanohar95@gmail.com
+🔗 linkedin.com/in/shivanshmanohar
+📱 instagram.com/mnhrrr29
