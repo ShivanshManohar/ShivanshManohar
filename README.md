@@ -1,6 +1,6 @@
 # Hi, I'm Shivansh! 👋
 
-**AI Engineer | Ex-AI Engineering Intern @ CoRover.ai | B.Tech CSE @ VIT Vellore**
+**Generative AI Enthusiast | Ex-AI Engineering Intern @ CoRover.ai | B.Tech CSE @ VIT Vellore**
 
 I'm passionate about building **Agentic AI systems**, **LLM applications**, and **production-ready AI backends**. My work focuses on conversational intelligence, Retrieval-Augmented Generation (RAG), semantic memory, and scalable AI infrastructure.
 
