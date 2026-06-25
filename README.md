@@ -62,4 +62,4 @@ Real-time face detection using Viola–Jones Haar Cascade classifiers with OpenC
 
 💼 **LinkedIn:** linkedin.com/in/shivanshmanohar
 
-📷 **Instagram:** instagram.com/mnhrrr29
+📷 **Instagram:** instagram.com/callmechronicl
