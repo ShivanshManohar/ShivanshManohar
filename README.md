@@ -1,19 +1,65 @@
 # Hi, I'm Shivansh! 👋
 
-CS student at VIT Vellore building production AI systems & full-stack applications across Conversational AI (LangChain, Ollama), MERN, AWS, and real-time systems (WebRTC, WebSockets).
+**AI Engineer | Ex-AI Engineering Intern @ CoRover.ai | B.Tech CSE @ VIT Vellore**
 
-(On computers I'm a hard coder, on stage I'm a hard metal-head)
+I'm passionate about building **Agentic AI systems**, **LLM applications**, and **production-ready AI backends**. My work focuses on conversational intelligence, Retrieval-Augmented Generation (RAG), semantic memory, and scalable AI infrastructure.
 
-### Main Repositories  
-- **Voice-Enabled AI Assistant** – End-to-end conversational AI with STT/TTS, LangChain memory, Ollama Llama3.2, and live weather APIs (95% speech accuracy).
-- **Face-Detection** – Real-time face detection using Viola–Jones (Haar Cascades) with OpenCV bounding boxes.
-- **FacePrep MERN Tasks** – Full-stack modules, REST APIs, and production features.  
-- **P2P File Sharing App** – WebRTC + WebSockets for real-time peer-to-peer file transfer.  
-- **Food Delivery App** – MERN application with auth, orders, and scalable backend logic.  
-- **Resume Website** – AWS S3 + CloudFront deployment with custom domain.  
-- **Movie Web App** – JavaScript, REST APIs, and responsive UI.
+Currently exploring **Machine Learning**, **Computer Vision**, and next-generation **AI agents**.
 
-### Contact  
-📫 shivanshmanohar95@gmail.com
-🔗 linkedin.com/in/shivanshmanohar
-📱 instagram.com/mnhrrr29
+> *On computers I'm a hard coder, on stage I'm a hard metal-head.* 🎹🤘
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 CogniCare AI
+
+An agentic AI platform for elder care featuring conversational memory, semantic retrieval, Retrieval-Augmented Generation (RAG), mood analysis, medication tracking, caregiver intelligence, and automated health reporting.
+
+**Tech:** FastAPI • LangGraph • LangChain • PostgreSQL • Groq LLM • FAISS
+
+---
+
+## 🧬 AE-MAP
+
+Deep learning framework for multi-omics disease subtype discovery using multi-view autoencoders, latent-space learning, and unsupervised clustering.
+
+**Tech:** PyTorch • Scikit-learn • NumPy • Pandas
+
+---
+
+## 🎙 Voice-Enabled Conversational AI
+
+Production-ready multilingual voice assistant integrating Speech-to-Text, LLM reasoning, and Text-to-Speech using a fully local Llama 3.2 pipeline.
+
+**Tech:** Python • LangChain • Ollama • Whisper • Edge-TTS
+
+---
+
+## 👁 Real-Time Face Detection
+
+Real-time face detection using Viola–Jones Haar Cascade classifiers with OpenCV.
+
+**Tech:** Python • OpenCV
+
+---
+
+# 🛠 Technical Stack
+
+**AI & Generative AI:** LangChain • LangGraph • Prompt Engineering • RAG • FAISS • Sentence Transformers • Groq LLM • Ollama • PyTorch
+
+**Backend:** FastAPI • PostgreSQL • SQLAlchemy • REST APIs
+
+**Languages:** Python • Java • JavaScript • SQL
+
+**Developer Tools:** Git • GitHub • AWS • Postman • VS Code
+
+---
+
+# 📫 Let's Connect
+
+📧 **Email:** [shivanshmanohar95@gmail.com](mailto:shivanshmanohar95@gmail.com)
+
+💼 **LinkedIn:** linkedin.com/in/shivanshmanohar
+
+📷 **Instagram:** instagram.com/mnhrrr29
