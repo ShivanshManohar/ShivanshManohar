@@ -1,10 +1,17 @@
 # Hi, I'm Shivansh! 👋
 
-**Generative AI Enthusiast | Ex-AI Engineering Intern @ CoRover.ai | B.Tech CSE @ VIT Vellore**
+**AI Engineering | Generative AI | B.Tech CSE @ VIT Vellore**
 
-I'm passionate about building **Agentic AI systems**, **LLM applications**, and **production-ready AI backends**. My work focuses on conversational intelligence, Retrieval-Augmented Generation (RAG), semantic memory, and scalable AI infrastructure.
+I'm passionate about building production-ready AI systems that combine **LLMs, Machine Learning, backend engineering, and scalable APIs**. I enjoy taking ideas from research and turning them into deployable applications with real-world workflows.
 
-Currently exploring **Machine Learning**, **Computer Vision**, and next-generation **AI agents**.
+My primary interests include:
+
+- Agentic AI
+- Large Language Models (LLMs)
+- Fine-Tuning & PEFT
+- Retrieval-Augmented Generation (RAG)
+- Computer Vision
+- FastAPI & AI Backends
 
 > *On computers I'm a hard coder, on stage I'm a hard metal-head.* 🎹🤘
 
@@ -12,17 +19,25 @@ Currently exploring **Machine Learning**, **Computer Vision**, and next-generati
 
 # 🚀 Featured Projects
 
+## 🎫 TicketMindAI
+
+End-to-end AI engineering project that fine-tunes **Llama 3.2** using **QLoRA** for structured customer support ticket understanding. Built an automated annotation pipeline, balanced dataset generation, ChatML conversion pipeline, FastAPI inference API, and benchmarking framework to compare **Prompt Engineering vs Fine-Tuned LoRA**.
+
+**Tech:** Llama 3.2 • QLoRA • Unsloth • Hugging Face • FastAPI • Gemini API • Python
+
+---
+
 ## 🧠 CogniCare AI
 
-An agentic AI platform for elder care featuring conversational memory, semantic retrieval, Retrieval-Augmented Generation (RAG), mood analysis, medication tracking, caregiver intelligence, and automated health reporting.
+Agentic AI platform for elder care featuring conversational memory, semantic retrieval, Retrieval-Augmented Generation (RAG), mood analysis, medication tracking, caregiver intelligence, and automated health reporting.
 
-**Tech:** FastAPI • LangGraph • LangChain • PostgreSQL • Groq LLM • FAISS
+**Tech:** FastAPI • LangGraph • LangChain • PostgreSQL • Groq • FAISS
 
 ---
 
 ## 🧬 AE-MAP
 
-Deep learning framework for multi-omics disease subtype discovery using multi-view autoencoders, latent-space learning, and unsupervised clustering.
+Deep learning framework for multi-omics disease subtype discovery using multi-view autoencoders, latent-space representation learning, and unsupervised clustering.
 
 **Tech:** PyTorch • Scikit-learn • NumPy • Pandas
 
@@ -30,36 +45,76 @@ Deep learning framework for multi-omics disease subtype discovery using multi-vi
 
 ## 🎙 Voice-Enabled Conversational AI
 
-Production-ready multilingual voice assistant integrating Speech-to-Text, LLM reasoning, and Text-to-Speech using a fully local Llama 3.2 pipeline.
+Local multilingual voice assistant integrating Speech-to-Text, LLM reasoning, and Text-to-Speech using an end-to-end Llama 3.2 pipeline.
 
-**Tech:** Python • LangChain • Ollama • Whisper • Edge-TTS
+**Tech:** Ollama • Whisper • LangChain • Edge-TTS • Python
 
 ---
 
 ## 👁 Real-Time Face Detection
 
-Real-time face detection using Viola–Jones Haar Cascade classifiers with OpenCV.
+Real-time face detection using the Viola–Jones algorithm with Haar Cascade classifiers.
 
 **Tech:** Python • OpenCV
 
 ---
 
-# 🛠 Technical Stack
+# 🛠 Technical Skills
 
-**AI & Generative AI:** LangChain • LangGraph • Prompt Engineering • RAG • FAISS • Sentence Transformers • Groq LLM • Ollama • PyTorch
+### Artificial Intelligence
 
-**Backend:** FastAPI • PostgreSQL • SQLAlchemy • REST APIs
+- Large Language Models (LLMs)
+- Fine-Tuning (QLoRA / LoRA)
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI
+- LangChain
+- LangGraph
+- FAISS
+- Sentence Transformers
+- PyTorch
 
-**Languages:** Python • Java • JavaScript • SQL
+### Backend
 
-**Developer Tools:** Git • GitHub • AWS • Postman • VS Code
+- FastAPI
+- REST APIs
+- SQLAlchemy
+- PostgreSQL
+
+### Programming Languages
+
+- Python
+- Java
+- JavaScript
+- SQL
+
+### Tools
+
+- Hugging Face
+- Git
+- GitHub
+- AWS
+- Postman
+- VS Code
 
 ---
 
-# 📫 Let's Connect
+# 🌱 Currently Learning
 
-📧 **Email:** [shivanshmanohar95@gmail.com](mailto:shivanshmanohar95@gmail.com)
+- Advanced Machine Learning
+- LLM Fine-Tuning
+- AI System Design
+- MLOps
 
-💼 **LinkedIn:** linkedin.com/in/shivanshmanohar
+---
 
-📷 **Instagram:** instagram.com/callmechronicl
+# 📫 Connect with Me
+
+📧 **Email**  
+shivanshmanohar95@gmail.com
+
+💼 **LinkedIn**  
+https://linkedin.com/in/shivanshmanohar
+
+📷 **Instagram**  
+https://instagram.com/callmechronicl
